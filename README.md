@@ -5,8 +5,11 @@
 
 ## I'm a Software Developer and Physics Engineer!
 
-- 🔭 I’m currently working on a [Website](https://smj.cards) for marketplace price statistics and a Discord Bot for price notifications for **[Skylords Reborn](https://www.skylords.eu/)** as well as on internal moderation tools as an [official staff member](https://forum.skylords.eu/index.php?/profile/10768-maze/) of the community project.
-- 🌱 I’m currently learning more about neural networks and developing mobile apps.
+- 🔭 I'm currently working on a [Website](https://smj.cards) for marketplace price statistics and a Discord Bot for price notifications for **[Skylords Reborn](https://www.skylords.eu/)** as well as on internal moderation tools as an [official staff member](https://forum.skylords.eu/index.php?/profile/10768-maze/) of the community project.
+- 🌱 I'm currently learning more about neural networks and developing mobile apps.
+  <br>
+
+---
 
 ### Languages:
 
