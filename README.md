@@ -25,6 +25,7 @@
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://github.com/DevM423/DevM423 "Node.js")
 [<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />](https://github.com/DevM423/DevM423 "GraphQL")
 [<img align="left" alt="Discord.js " width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" style="padding-right:10px;" />](https://github.com/DevM423/DevM423 "Discord.js ")
+[<img align="left" alt="Material UI " width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" style="padding-right:10px;" />](https://github.com/DevM423/DevM423 "Material UI ")
 [<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="padding-right:10px;" />](https://github.com/DevM423/DevM423 "Django")
 [<img align="left" alt="pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />](https://github.com/DevM423/DevM423 "pandas")
 <br>
