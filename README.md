@@ -42,7 +42,8 @@
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://github.com/DevM423/DevM423 "Git")
 [<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />](https://github.com/DevM423/DevM423 "Docker")
 [<img align="left" alt="Linode" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/linode-1-logo-svg-vector.svg" style="padding-right:10px;" />](https://github.com/DevM423/DevM423 "Linode")
-[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />](https://github.com/DevM423 "GitHub")
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/DevM423#gh-dark-mode-only "GitHub")
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://github.com/DevM423#gh-light-mode-only "GitHub")
 [<img align="left" alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" style="padding-right:10px;" />](https://gitlab.com/DevM423 "GitLab")
 <br>
 
