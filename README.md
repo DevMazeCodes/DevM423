@@ -2,7 +2,7 @@
 
 [![website](https://img.shields.io/website?label=maze.codes&style=for-the-badge&url=https%3A%2F%2Fmaze.codes)](https://maze.codes)
 [![smj](https://img.shields.io/website?label=smj.cards&style=for-the-badge&url=https%3A%2F%2Fsmj.cards)](https://smj.cards)
-[![smj_old](<https://img.shields.io/website?label=smj%20(Previous%20Version)&style=for-the-badge&url=https%3A%2F%2Fsmj.herokuapp.com>)](https://smj.herokuapp.com)
+[![smj_old](https://img.shields.io/website?label=smj%20%28Previous%20Version%29&style=for-the-badge&url=https%3A%2F%2Fsmj.herokuapp.com)](https://smj.herokuapp.com)
 
 ## I'm a Software Developer and Physics Engineer!
 
