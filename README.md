@@ -2,11 +2,12 @@
 
 [![website](https://img.shields.io/website?label=maze.codes&style=for-the-badge&url=https%3A%2F%2Fmaze.codes)](https://maze.codes)
 [![smj](https://img.shields.io/website?label=smj.cards&style=for-the-badge&url=https%3A%2F%2Fsmj.cards)](https://smj.cards)
+[![smj_old](<https://img.shields.io/website?label=smj%20(Previous%20Version)&style=for-the-badge&url=https%3A%2F%2Fsmj.herokuapp.com>)](https://smj.herokuapp.com)
 
 ## I'm a Software Developer and Physics Engineer!
 
-- 🔭 I'm currently working on a [Website](https://smj.cards) for marketplace price statistics and a Discord Bot for price notifications for **[Skylords Reborn](https://www.skylords.eu/)** as well as on internal moderation tools as an [official staff member](https://forum.skylords.eu/index.php?/profile/10768-maze/) of the community project.
-- 🌱 I'm currently learning more about neural networks and developing mobile apps.
+- 🔭 I'm currently working on a [Website](https://smj.cards) for marketplace price statistics with the [previous version of the website](https://smj.herokuapp.com) also still being available and a Discord Bot for price notifications for **[Skylords Reborn](https://www.skylords.eu/)** as well as on internal moderation tools as an [official staff member](https://forum.skylords.eu/index.php?/profile/10768-maze/) of the community project.
+- 🌱 I'm currently learning more about neural networks and developing mobile apps and plan to learn Rust.
   <br>
 
 ---
@@ -54,3 +55,4 @@
 
 [website]: https://maze.codes
 [smj]: https://smj.cards
+[smj_old]: https://smj.herokuapp.com
