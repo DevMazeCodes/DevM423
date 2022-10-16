@@ -23,6 +23,7 @@
 [<img height="30px" width="30px" style="padding:4px; margin:1px;" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />](https://reactjs.org/docs/getting-started.html "React")
 [<img height="30px" width="30px" style="padding:4px; margin:1px;" alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />](https://nextjs.org/docs "Next.js")
 [<img height="30px" width="30px" style="padding:4px; margin:1px;" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />](https://nodejs.org/en/docs/ "Node.js")
+[<img height="30px" width="30px" style="padding:4px; margin:1px;" alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />](https://expressjs.com/en/api "Express")
 [<img height="30px" width="30px" style="padding:4px; margin:1px;" alt="GraphQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />](https://graphql.org/learn/ "GraphQL")
 [<img height="30px" width="30px" style="padding:4px; margin:1px;" alt="Discord.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />](https://discord.js.org/#/docs/discord.js/main/general/welcome "Discord.js")
 [<img height="30px" width="30px" style="padding:4px; margin:1px;" alt="Material UI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />](https://mui.com/material-ui/getting-started/overview/ "Material UI")
