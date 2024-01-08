@@ -6,7 +6,7 @@
 
 ## I'm a Software Developer with a Physics Engineering background!
 
-- 🔭 I'm have [multiple projects](https://maze.codes/projects) that I am actively working on, these include:
+- 🔭 I have [multiple projects](https://maze.codes/projects) that I am actively working on, these include:
   - A [website](https://smj.cards) for marketplace price statistics and a [Discord Bot](https://maze.codes/projects/smj-bot) for price notifications for **[Skylords Reborn](https://www.skylords.eu/)** as well as on internal moderation tools as an [official staff member](https://forum.skylords.eu/index.php?/profile/10768-maze/) of the community project.
   - A [website](https://pcf.maze.codes) for visualizing the flow or resources through production chains of different games.
   - A simple [Discord Bot](https://maze.codes/projects/game-media-discord-bot) for notifying when someone starts streaming a set game. This bot is active on the Skylords Reborn Discord Server.
